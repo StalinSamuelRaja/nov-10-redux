@@ -1,8 +1,8 @@
-# React + Vite
+## React Redux Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- create a cart page with per-item price
+- per-item quantity
+- Total quantity 
+- Total amount
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[livesite] (https://roaring-taiyaki-c2a5cf.netlify.app/)
